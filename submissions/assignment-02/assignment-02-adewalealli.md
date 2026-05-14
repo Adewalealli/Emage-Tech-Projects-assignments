@@ -4,6 +4,15 @@
 **Date completed:** 2026-05-13  
 **Language chosen:** Python
 
+## Checklist
+
+- [x] My report lives at `submissions/assignment-02/assignment-02-adewalealli.md`
+- [x] I answered all 8 questions
+- [x] I included terminal output as evidence
+- [x] I cleaned up containers and images on my machine
+- [x] I included one thing that surprised me
+- [x] I included one thing I am still unsure about
+      
 ## 1. The image I built
 
 - Final image ID: `sha256:8d72ad63467549df3667f41a8d36d52cc20c473132d60dd6783d553bbd6db129`
